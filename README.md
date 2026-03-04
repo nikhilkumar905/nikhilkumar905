@@ -66,9 +66,7 @@ I'm a passionate developer who loves building products that blend clean design w
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nikhilkumar905&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nikhil's GitHub activity statistics" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumar905&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<img src="github-metrics.svg" alt="Nikhil's GitHub metrics" />
 
 </div>
 
