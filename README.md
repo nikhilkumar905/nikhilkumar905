@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nikhil+Kumar+%F0%9F%91%8B;Full+Stack+Developer;Problem+Solver+%7C+Builder;Turning+ideas+into+reality" alt="Animated header: Hi, I'm Nikhil Kumar — Full Stack Developer, Problem Solver &amp; Builder" />
+<h1>Hi, I'm Nikhil Kumar 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver+%7C+Builder;Turning+ideas+into+reality" alt="Animated roles: Full Stack Developer, Problem Solver &amp; Builder, Turning ideas into reality" />
 
 <br/>
 
