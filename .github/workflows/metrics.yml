@@ -18,7 +18,7 @@ jobs:
       - name: Generate GitHub stats metrics
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: nikhilkumar905
           template: classic
           base: header, activity, community, repositories
