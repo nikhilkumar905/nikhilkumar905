@@ -76,7 +76,7 @@ I'm a passionate developer who loves building products that blend clean design w
 
 <div align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-nikhilkumar905-181717?style=flat-square&logo=github)](https://github.com/nikhilkumar905)
+[![GitHub](https://img.shields.io/badge/GitHub-nikhilkumar905-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nikhilkumar905)
 
 </div>
 
