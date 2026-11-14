@@ -23,8 +23,23 @@ I’m **Nikhil Kumar Sah**, a developer who enjoys turning practical ideas into 
 - 🧠 Interested in **AI-powered products**, education, agriculture, and real-world automation
 - ⚡ Fun fact: I built a delivery management system entirely in **C++**
 
+### What I care about
+
+I enjoy projects where software solves a clear problem for real people. My approach is to start with a useful idea, keep the experience simple, build the core flow end to end, and improve it through iteration.
+
+| Focus | What I’m exploring |
+| :--- | :--- |
+| **Product engineering** | Responsive interfaces, APIs, authentication, and data-backed features |
+| **AI and automation** | Code translation, intelligent tools, and practical workflows |
+| **Impactful software** | Education, agriculture, healthcare, and community-focused platforms |
+| **Developer growth** | TypeScript, Node.js, system design, testing, and clean architecture |
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkumar905&bg_color=0f172a&color=bae6fd&line=22d3ee&point=f8fafc&area=true&hide_border=true&custom_title=My%20coding%20journey" alt="GitHub activity graph" width="96%" />
+  <a href="https://github.com/nikhilkumar905">
+    <img src="https://ghchart.rshah.org/22d3ee/nikhilkumar905" alt="GitHub contribution activity for nikhilkumar905" width="96%" />
+  </a>
+  <br />
+  <sub>My GitHub contribution activity — click the calendar to view the full profile.</sub>
 </div>
 
 ## 🧰 Toolkit
@@ -34,6 +49,34 @@ I’m **Nikhil Kumar Sah**, a developer who enjoys turning practical ideas into 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,php,nodejs,mysql,sqlite,git,github,vscode&perline=7" alt="Technologies: HTML, CSS, JavaScript, TypeScript, Python, C++, PHP, Node.js, MySQL, SQLite, Git, GitHub, and VS Code" />
 
 </div>
+
+## 🧭 How I build
+
+```text
+Discover  →  Design  →  Build  →  Test  →  Ship  →  Improve
+   problem      flow       feature    quality    feedback    product
+```
+
+- **Discover:** understand the user, the problem, and the smallest useful outcome
+- **Design:** map the experience, data flow, and technical trade-offs
+- **Build:** create a clean, responsive interface backed by working logic
+- **Improve:** learn from feedback and make the next version better
+
+## 🗂️ More from my repository shelf
+
+<details>
+<summary><strong>Explore all projects by theme</strong></summary>
+<br />
+
+| Theme | Projects |
+| :--- | :--- |
+| **AI & intelligent tools** | [AI Code Translator](https://github.com/nikhilkumar905/AI_CODE_TRANSLATOR) · [Misconception-AI](https://github.com/nikhilkumar905/Misconception-AI) · [Medi-Lens](https://github.com/nikhilkumar905/Medi-Lens) |
+| **Web products** | [LUXESTAY](https://github.com/nikhilkumar905/LUXESTAY) · [E-commerce for Men's Wear](https://github.com/nikhilkumar905/E-commerce_for_men-s_wear) · [Personal Portfolio](https://github.com/nikhilkumar905/Personal-Portfolio) |
+| **Learning & community** | [Friends Pathshala](https://github.com/nikhilkumar905/Peer-to-peer-learning-platform) · [ExamNexus](https://github.com/nikhilkumar905/ExamNexus) |
+| **Social impact** | [AgriLink Innovators](https://github.com/nikhilkumar905/Project_AgriLink_Innovators) · [Crowd-source Disaster Management](https://github.com/nikhilkumar905/Crowd-source-Disaster-Management) |
+| **Utilities & experiments** | [Dictionary via API](https://github.com/nikhilkumar905/Dictionary-using-API-) · [Currency Converter](https://github.com/nikhilkumar905/Currency_converter) · [Delivery Management System](https://github.com/nikhilkumar905/Delivery-Management-system) · [ECG Arrhythmia Detection](https://github.com/nikhilkumar905/ECG-Arrhythmia-Detection) · [Handsmen Thread](https://github.com/nikhilkumar905/Handsmen-Thread) |
+
+</details>
 
 ## 🚀 Featured builds
 
