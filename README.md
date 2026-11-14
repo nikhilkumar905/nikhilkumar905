@@ -1,85 +1,110 @@
 <div align="center">
 
-<h1>Hi, I'm Nikhil Kumar 👋</h1>
+<a href="https://github.com/nikhilkumar905">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=220&section=header&text=Nikhil%20Kumar%20Sah&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20developer%20%7C%20Product%20builder%20%7C%20Curious%20problem%20solver&descAlignY=58&descSize=16&animation=fadeIn" alt="Animated profile header" width="100%" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver+%7C+Builder;Turning+ideas+into+reality" alt="Animated roles: Full Stack Developer, Problem Solver &amp; Builder, Turning ideas into reality" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+useful+web+experiences;Turning+ideas+into+working+products;Learning%2C+shipping%2C+iterating+%F0%9F%9A%80" alt="Animated introduction" />
 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/nikhilkumar905?style=flat-square&color=6C63FF&labelColor=1a1a2e)](https://github.com/nikhilkumar905)
-[![Profile views](https://komarev.com/ghpvc/?username=nikhilkumar905&style=flat-square&color=6C63FF)](https://github.com/nikhilkumar905)
-
-</div>
-
----
-
-### 🧑‍💻 About Me
-
-I'm a passionate developer who loves building products that blend clean design with powerful functionality. From e-commerce platforms to smart agricultural tools — I turn ideas into full-stack experiences.
-
-- 🔭 &nbsp;Currently building **full-stack web applications**
-- 🌱 &nbsp;Exploring **Node.js**, **REST APIs**, and **system design**
-- ⚡ &nbsp;Fun fact: I once built a delivery management system entirely in C++
-
----
-
-### 🛠 Tech Stack
-
-<div align="left">
-
-**Languages**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Tools & Platforms**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p>
+  <a href="https://github.com/nikhilkumar905?tab=followers"><img src="https://img.shields.io/github/followers/nikhilkumar905?label=Followers&style=for-the-badge&color=0891b2&labelColor=0f172a" alt="GitHub followers" /></a>
+  <a href="https://github.com/nikhilkumar905?tab=repositories"><img src="https://img.shields.io/badge/17%20Public%20Repos-312e81?style=for-the-badge&logo=github&logoColor=white" alt="17 public repositories" /></a>
+  <a href="https://komarev.com/ghpvc/?username=nikhilkumar905"><img src="https://komarev.com/ghpvc/?username=nikhilkumar905&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" /></a>
+</p>
 
 </div>
 
----
+## 👋 About me
 
-### 🚀 Featured Projects
+I’m **Nikhil Kumar Sah**, a developer who enjoys turning practical ideas into polished, end-to-end products. I like working across the stack — from an intuitive interface to the APIs, data, and logic behind it.
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🏨 LUXESTAY](https://github.com/nikhilkumar905/LUXESTAY) | A full-featured luxury room booking platform with real-time listings, booking management, and user authentication | `Node.js` `JavaScript` `JSON` |
-| [🌾 AgriLink Innovators](https://github.com/nikhilkumar905/Project_AgriLink_Innovators) | Smart agricultural platform connecting farmers with resources, market data, and modern farming tools | `HTML` `CSS` `JavaScript` |
-| [🛍️ E-Commerce for Men's Wear](https://github.com/nikhilkumar905/E-commerce_for_men-s_wear) | A complete men's fashion e-commerce store with product pages, cart, and user authentication | `HTML` `CSS` `JS` `PHP` `SQLite` |
-| [📚 Friends Pathshala](https://github.com/nikhilkumar905/Peer-to-peer-learning-platform) | Peer-to-peer learning platform where students and teachers connect, form groups, and share knowledge | `HTML` `CSS` `JavaScript` |
-| [🚚 Delivery Management System](https://github.com/nikhilkumar905/Delivery-Management-system) | Console-based system for managing deliveries, drivers, and order tracking using OOP in C++ | `C++` |
-| [📖 Dictionary via API](https://github.com/nikhilkumar905/Dictionary-using-API-) | Elegant dictionary app fetching live word definitions, phonetics, and examples through a REST API | `Python` |
+- 🔭 Building full-stack applications and developer-focused tools
+- 🌱 Deepening my skills in **Node.js, REST APIs, TypeScript, and system design**
+- 🧠 Interested in **AI-powered products**, education, agriculture, and real-world automation
+- ⚡ Fun fact: I built a delivery management system entirely in **C++**
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkumar905&bg_color=0f172a&color=bae6fd&line=22d3ee&point=f8fafc&area=true&hide_border=true&custom_title=My%20coding%20journey" alt="GitHub activity graph" width="96%" />
+</div>
 
-### 📊 GitHub Stats
+## 🧰 Toolkit
 
 <div align="center">
 
-<img src="github-metrics.svg" alt="Nikhil's GitHub metrics" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,php,nodejs,mysql,sqlite,git,github,vscode&perline=7" alt="Technologies: HTML, CSS, JavaScript, TypeScript, Python, C++, PHP, Node.js, MySQL, SQLite, Git, GitHub, and VS Code" />
 
 </div>
 
----
+## 🚀 Featured builds
 
-### 📬 Connect with Me
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/nikhilkumar905/DeveloperOS">DeveloperOS</a></h3>
+      <p>A developer-oriented operating system project exploring tools, workflows, and a focused coding experience.</p>
+      <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=38bdf8" alt="TypeScript" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/nikhilkumar905/AI_CODE_TRANSLATOR">AI Code Translator</a></h3>
+      <p>A practical AI project for translating code between programming languages and making experimentation easier.</p>
+      <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=facc15" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 <a href="https://github.com/nikhilkumar905/Medi-Lens">Medi-Lens</a></h3>
+      <p>A TypeScript project focused on making health-related information more accessible through a modern product experience.</p>
+      <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=38bdf8" alt="TypeScript" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏨 <a href="https://github.com/nikhilkumar905/LUXESTAY">LUXESTAY</a></h3>
+      <p>A luxury room booking platform with listings, booking management, and authentication flows.</p>
+      <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=4ade80" alt="Node.js" />
+      <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=facc15" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 <a href="https://github.com/nikhilkumar905/Project_AgriLink_Innovators">AgriLink Innovators</a></h3>
+      <p>A smart agriculture platform connecting farmers with useful resources, market data, and modern farming tools.</p>
+      <img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JavaScript-0f172a?style=flat-square&logo=html5&logoColor=f97316" alt="HTML, CSS, and JavaScript" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 <a href="https://github.com/nikhilkumar905/Peer-to-peer-learning-platform">Friends Pathshala</a></h3>
+      <p>A peer-to-peer learning platform where students and teachers can connect, form groups, and share knowledge.</p>
+      <img src="https://img.shields.io/badge/Community%20learning-0f172a?style=flat-square&logo=bookstack&logoColor=60a5fa" alt="Community learning" />
+    </td>
+  </tr>
+</table>
 
-<div align="left">
+<div align="center">
+  <a href="https://github.com/nikhilkumar905?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20all%20repositories-%E2%86%92-06b6d4?style=for-the-badge&labelColor=0f172a" alt="Explore all repositories" />
+  </a>
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-nikhilkumar905-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nikhilkumar905)
+## 📈 GitHub at a glance
 
+<div align="center">
+  <img src="github-metrics.svg" alt="GitHub metrics for Nikhil Kumar Sah" width="480" />
 </div>
 
 <div align="center">
-  <sub>⭐ If you like what I build, feel free to star a repo or say hello!</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilkumar905&show_icons=true&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=cbd5e1&icon_color=818cf8&rank_icon=github&custom_title=Nikhil's%20GitHub%20stats" alt="GitHub statistics" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumar905&layout=compact&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=cbd5e1&langs_count=8" alt="Top programming languages" height="180" />
+</div>
+
+## 🤝 Let’s connect
+
+<div align="center">
+
+<a href="https://github.com/nikhilkumar905"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/nikhilkumar905?tab=repositories"><img src="https://img.shields.io/badge/Projects-312e81?style=for-the-badge&logo=stackshare&logoColor=white" alt="Projects" /></a>
+
+<br /><br />
+
+<sub>⭐ If something here catches your eye, explore the code and say hello.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=110&section=footer&animation=twinkling" alt="" width="100%" />
+
 </div>
