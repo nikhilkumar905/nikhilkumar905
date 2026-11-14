@@ -78,44 +78,51 @@ Discover  →  Design  →  Build  →  Test  →  Ship  →  Improve
 
 </details>
 
-## 🚀 Featured builds
+## 🚀 Selected product work
+
+These are the projects that best represent my interests in product development, education, developer tooling, and practical AI.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖥️ <a href="https://github.com/nikhilkumar905/DeveloperOS">DeveloperOS</a></h3>
-      <p>A developer-oriented operating system project exploring tools, workflows, and a focused coding experience.</p>
-      <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=38bdf8" alt="TypeScript" />
+      <h3>🎓 <a href="https://github.com/nikhilkumar905/ExamNexus">ExamNexus</a></h3>
+      <p>An exam and learning platform designed to make preparation, practice, and progress easier to manage.</p>
+      <img src="https://img.shields.io/github/languages/top/nikhilkumar905/ExamNexus?style=flat-square&color=22d3ee" alt="ExamNexus primary language" />
+      <img src="https://img.shields.io/github/stars/nikhilkumar905/ExamNexus?style=flat-square&color=facc15" alt="ExamNexus stars" />
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/nikhilkumar905/AI_CODE_TRANSLATOR">AI Code Translator</a></h3>
-      <p>A practical AI project for translating code between programming languages and making experimentation easier.</p>
-      <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=facc15" alt="JavaScript" />
+      <h3>💼 <a href="https://github.com/nikhilkumar905/Personal-Portfolio">Personal Portfolio</a></h3>
+      <p>A personal portfolio experience for presenting projects, skills, and a developer’s work in a focused way.</p>
+      <img src="https://img.shields.io/github/languages/top/nikhilkumar905/Personal-Portfolio?style=flat-square&color=22d3ee" alt="Personal Portfolio primary language" />
+      <img src="https://img.shields.io/github/stars/nikhilkumar905/Personal-Portfolio?style=flat-square&color=facc15" alt="Personal Portfolio stars" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/nikhilkumar905/DeveloperOS">DeveloperOS</a></h3>
+      <p>A developer-focused project exploring tools, workflows, and a more productive coding experience.</p>
+      <img src="https://img.shields.io/github/languages/top/nikhilkumar905/DeveloperOS?style=flat-square&color=22d3ee" alt="DeveloperOS primary language" />
+      <img src="https://img.shields.io/github/stars/nikhilkumar905/DeveloperOS?style=flat-square&color=facc15" alt="DeveloperOS stars" />
+    </td>
+    <td width="50%" valign="top">
       <h3>🩺 <a href="https://github.com/nikhilkumar905/Medi-Lens">Medi-Lens</a></h3>
-      <p>A TypeScript project focused on making health-related information more accessible through a modern product experience.</p>
-      <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=38bdf8" alt="TypeScript" />
+      <p>A health-focused TypeScript project exploring a modern, accessible product experience.</p>
+      <img src="https://img.shields.io/github/languages/top/nikhilkumar905/Medi-Lens?style=flat-square&color=22d3ee" alt="Medi-Lens primary language" />
+      <img src="https://img.shields.io/github/stars/nikhilkumar905/Medi-Lens?style=flat-square&color=facc15" alt="Medi-Lens stars" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/nikhilkumar905/AI_CODE_TRANSLATOR">AI Code Translator</a></h3>
+      <p>An AI-oriented tool for translating code between languages and making experimentation more approachable.</p>
+      <img src="https://img.shields.io/github/languages/top/nikhilkumar905/AI_CODE_TRANSLATOR?style=flat-square&color=22d3ee" alt="AI Code Translator primary language" />
+      <img src="https://img.shields.io/github/stars/nikhilkumar905/AI_CODE_TRANSLATOR?style=flat-square&color=facc15" alt="AI Code Translator stars" />
     </td>
     <td width="50%" valign="top">
       <h3>🏨 <a href="https://github.com/nikhilkumar905/LUXESTAY">LUXESTAY</a></h3>
-      <p>A luxury room booking platform with listings, booking management, and authentication flows.</p>
-      <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=4ade80" alt="Node.js" />
-      <img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=facc15" alt="JavaScript" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌾 <a href="https://github.com/nikhilkumar905/Project_AgriLink_Innovators">AgriLink Innovators</a></h3>
-      <p>A smart agriculture platform connecting farmers with useful resources, market data, and modern farming tools.</p>
-      <img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JavaScript-0f172a?style=flat-square&logo=html5&logoColor=f97316" alt="HTML, CSS, and JavaScript" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/nikhilkumar905/Peer-to-peer-learning-platform">Friends Pathshala</a></h3>
-      <p>A peer-to-peer learning platform where students and teachers can connect, form groups, and share knowledge.</p>
-      <img src="https://img.shields.io/badge/Community%20learning-0f172a?style=flat-square&logo=bookstack&logoColor=60a5fa" alt="Community learning" />
+      <p>A full-stack luxury room booking platform with listings, booking management, and authentication flows.</p>
+      <img src="https://img.shields.io/github/languages/top/nikhilkumar905/LUXESTAY?style=flat-square&color=22d3ee" alt="LUXESTAY primary language" />
+      <img src="https://img.shields.io/github/stars/nikhilkumar905/LUXESTAY?style=flat-square&color=facc15" alt="LUXESTAY stars" />
     </td>
   </tr>
 </table>
@@ -133,8 +140,13 @@ Discover  →  Design  →  Build  →  Test  →  Ship  →  Improve
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilkumar905&show_icons=true&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=cbd5e1&icon_color=818cf8&rank_icon=github&custom_title=Nikhil's%20GitHub%20stats" alt="GitHub statistics" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumar905&layout=compact&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=cbd5e1&langs_count=8" alt="Top programming languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhilkumar905&theme=tokyonight" alt="GitHub statistics" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilkumar905&theme=tokyonight" alt="Top programming languages by repository" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhilkumar905&theme=tokyonight" alt="Most committed programming languages" height="180" />
+</div>
+
+<div align="center">
+  <sub>Stats and language cards refresh from my public GitHub activity. Repository cards above are selected for product depth rather than repository count.</sub>
 </div>
 
 ## 🤝 Let’s connect
